@@ -1,0 +1,4 @@
+myconky
+=======
+
+My conkyrc file
